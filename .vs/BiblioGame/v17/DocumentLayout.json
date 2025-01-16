@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|d:\\ynov_2024-2025\\desktopwinform\\bibliogame\\bibliogame\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|d:\\ynov_2024-2025\\desktopwinform\\bibliogame\\bibliogame\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\bibliogame\\ajouterjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\ajouterjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|d:\\ynov_2024-2025\\desktopwinform\\bibliogame\\bibliogame\\ajouterjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\ajouterjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\bibliogame\\notation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\notation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|d:\\ynov_2024-2025\\desktopwinform\\bibliogame\\bibliogame\\accueil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\accueil.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|d:\\ynov_2024-2025\\desktopwinform\\bibliogame\\bibliogame\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\accueil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|d:\\ynov_2024-2025\\desktopwinform\\bibliogame\\bibliogame\\notation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\notation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|d:\\ynov_2024-2025\\desktopwinform\\bibliogame\\bibliogame\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6E947-6638-4796-B738-F2881C126C15}|BiblioGame\\BiblioGame.csproj|solutionrelative:bibliogame\\jeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 298,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Accueil.Designer.cs",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Accueil.Designer.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\Accueil.Designer.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Accueil.Designer.cs",
+              "RelativeToolTip": "BiblioGame\\Accueil.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAqwLMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:24:27.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Notation.cs [Conception]",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Notation.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\Notation.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Notation.cs [Conception]",
+              "RelativeToolTip": "BiblioGame\\Notation.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:17:44.521Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AjouterJeu.cs",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\AjouterJeu.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\AjouterJeu.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\AjouterJeu.cs",
+              "RelativeToolTip": "BiblioGame\\AjouterJeu.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T10:46:59.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AjouterJeu.cs [Conception]",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\AjouterJeu.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\AjouterJeu.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\AjouterJeu.cs [Conception]",
+              "RelativeToolTip": "BiblioGame\\AjouterJeu.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T15:09:20.174Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Accueil.cs",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Accueil.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\Accueil.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Accueil.cs",
+              "RelativeToolTip": "BiblioGame\\Accueil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJ4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T08:11:56.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Database.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\Database.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Database.cs",
+              "RelativeToolTip": "BiblioGame\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:17:47.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Accueil.cs [Conception]",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Accueil.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\Accueil.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Accueil.cs [Conception]",
+              "RelativeToolTip": "BiblioGame\\Accueil.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:24:38.381Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Notation.cs",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Notation.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\Notation.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Notation.cs",
+              "RelativeToolTip": "BiblioGame\\Notation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T08:02:45.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Jeu.cs",
+              "DocumentMoniker": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Jeu.cs",
+              "RelativeDocumentMoniker": "BiblioGame\\Jeu.cs",
+              "ToolTip": "D:\\YNOV_2024-2025\\DesktopWinForm\\BiblioGame\\BiblioGame\\Jeu.cs",
+              "RelativeToolTip": "BiblioGame\\Jeu.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T08:29:09.767Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 102,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
