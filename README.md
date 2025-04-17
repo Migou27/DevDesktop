@@ -26,4 +26,4 @@ Ce projet est une application développée en **C# .NET** qui permet de recenser
 ## 📂 Comment ouvrir le projet
 
 - **Cloner le projet via git**
-- **Ouvrir le projet cloner avec Visual Studio 2022**
+- **Ouvrir le projet cloné avec Visual Studio 2022**
